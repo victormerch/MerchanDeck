@@ -1,0 +1,11 @@
+--- ESTA APLICACION A SIDO CREADA POR VICTOR MERCHAN VENTURA ---
+
+Requisitos para que la aplicacion funcione correctamente:
+
+1.Tener Python 3.8.
+2.Instalar las fuentes que hay en la carpeta.
+3.Disfrutar de la aplicacion!!
+
+
+
+Si hay algun tipo de problema o bug, manda un mail a esta direccion con tu problema->1Victormerch@gmail.com
